@@ -110,73 +110,73 @@ Referensi cloud service: Amazon Web Service Microsoft Azure Google Cloud Platfor
 ## Mencoba Pembuatan Game dan Simulasi Menggunakan Logo [v] ⭐⭐
 
 
-# Mencoba Pemrosesan Konten Multimedia (Image, Audio) Menggunakan Google Colab [v] ⭐⭐⭐
+## Mencoba Pemrosesan Konten Multimedia (Image, Audio) Menggunakan Google Colab [v] ⭐⭐⭐
 
 
-# Mencoba Web Tool AI Discriminative (Image Classification) [v] ⭐⭐⭐⭐
+## Mencoba Web Tool AI Discriminative (Image Classification) [v] ⭐⭐⭐⭐
 
 
-# Mencoba Web Tool AI Generative (Text to Image, Text to Text) [v] ⭐⭐⭐⭐
+## Mencoba Web Tool AI Generative (Text to Image, Text to Text) [v] ⭐⭐⭐⭐
 
 
-# Mencoba Model Machine Learning Menggunakan Google Colab, TTS, Speechrecognition, dan HuggingFace [v] ⭐⭐⭐
+## Mencoba Model Machine Learning Menggunakan Google Colab, TTS, Speechrecognition, dan HuggingFace [v] ⭐⭐⭐
 
 
-# Mencoba Data Visualization Dengan Tools [v] ⭐⭐
+## Mencoba Data Visualization Dengan Tools [v] ⭐⭐
 
 
-# Mencoba Data Visualization Dengan Code [v] ⭐⭐
+## Mencoba Data Visualization Dengan Code [v] ⭐⭐
 
 
-# Mendaftar dan Mencoba Eksplorasi HuggingFace [v] ⭐⭐⭐
+## Mendaftar dan Mencoba Eksplorasi HuggingFace [v] ⭐⭐⭐
 
 
-# Mendaftar dan Mencoba Eksplorasi Kaggle [v] ⭐⭐⭐⭐
+## Mendaftar dan Mencoba Eksplorasi Kaggle [v] ⭐⭐⭐⭐
 
 
-# Mencoba Protokol Komunikasi IoT (MQTT) [v] ⭐
+## Mencoba Protokol Komunikasi IoT (MQTT) [v] ⭐
 
 
-# Mencoba Memproses File CSV Menggunakan Google Colab [v] ⭐⭐
+## Mencoba Memproses File CSV Menggunakan Google Colab [v] ⭐⭐
 
 
-# Mencoba Memproses File Big Data ORC Menggunakan Google Colab [v] ⭐⭐
+## Mencoba Memproses File Big Data ORC Menggunakan Google Colab [v] ⭐⭐
 
 
-# Menjelaskan Jurnal, Conference, Artikel, Grade Jurnal [v] ⭐⭐⭐⭐⭐
+## Menjelaskan Jurnal, Conference, Artikel, Grade Jurnal [v] ⭐⭐⭐⭐⭐
 
 
-# Eksplorasi Artikel Jurnal / Conference di Repository Terekognisi Internasional (IEEE / Arxiv / Science Direct / ACM /DBLP) [v] ⭐⭐⭐⭐
+## Eksplorasi Artikel Jurnal / Conference di Repository Terekognisi Internasional (IEEE / Arxiv / Science Direct / ACM /DBLP) [v] ⭐⭐⭐⭐
 
 
-# Menonton Video Presentasi Tugas Akhir Informatika ⭐⭐⭐⭐⭐
+## Menonton Video Presentasi Tugas Akhir Informatika ⭐⭐⭐⭐⭐
 
 
-# Mengeksplorasi Seluruh Profesi Terkait Informatika dan Profesi yang Diminati ⭐⭐⭐⭐
+## Mengeksplorasi Seluruh Profesi Terkait Informatika dan Profesi yang Diminati ⭐⭐⭐⭐
 
 
-# Eksplorasi Tools Untuk Belajar Bahasa Inggris (Duolingo) ⭐⭐⭐
+## Eksplorasi Tools Untuk Belajar Bahasa Inggris (Duolingo) ⭐⭐⭐
 
 
-# Eksplorasi Tools Untuk Belajar Berbicara Bahasa Inggris (HelloTalk) ⭐⭐⭐
+## Eksplorasi Tools Untuk Belajar Berbicara Bahasa Inggris (HelloTalk) ⭐⭐⭐
 
 
-# Eksplorasi Lowongan Pekerjaan IT ⭐⭐⭐
+## Eksplorasi Lowongan Pekerjaan IT ⭐⭐⭐
 
 
-# Eksplorasi Lowongan Freelancer IT (Upwork / Toptal / Freelancer.com) ⭐⭐⭐
+## Eksplorasi Lowongan Freelancer IT (Upwork / Toptal / Freelancer.com) ⭐⭐⭐
 
 
-# Eksplorasi dan Pilih Topik yang Diminati di Roadmap.sh ⭐⭐⭐
+## Eksplorasi dan Pilih Topik yang Diminati di Roadmap.sh ⭐⭐⭐
 
 
-# Eksplorasi Top Github Project yang Diminati ⭐⭐
+## Eksplorasi Top Github Project yang Diminati ⭐⭐
 
 
-# Membangun Profil Linkedin dan Mengikuti Akun-Akun Inspirasif Bertema Informatika ⭐⭐⭐
+## Membangun Profil Linkedin dan Mengikuti Akun-Akun Inspirasif Bertema Informatika ⭐⭐⭐
 
 
-# Membangun Profil Github Page ⭐⭐⭐⭐⭐
+## Membangun Profil Github Page ⭐⭐⭐⭐⭐
 
 
 # Mengikuti Workshop / Event / Course Terkait IT ⭐⭐⭐⭐
