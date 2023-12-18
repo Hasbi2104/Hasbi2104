@@ -179,7 +179,7 @@ Referensi cloud service: Amazon Web Service Microsoft Azure Google Cloud Platfor
 ## Membangun Profil Github Page ⭐⭐⭐⭐⭐
 
 
-# Mengikuti Workshop / Event / Course Terkait IT ⭐⭐⭐⭐
+## Mengikuti Workshop / Event / Course Terkait IT ⭐⭐⭐⭐
 
 
-# Membaca dan Mengambil Inspirasi Dari Buku Bertema Informatika ⭐⭐⭐⭐⭐
+## Membaca dan Mengambil Inspirasi Dari Buku Bertema Informatika ⭐⭐⭐⭐⭐
