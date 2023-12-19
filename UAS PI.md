@@ -230,8 +230,72 @@ Referensi []
 
 ## Mengeksplorasi dan Menjelaskan Layanan Cloud Service yang Diminati (GCP / AWS / Azure) [v] ⭐⭐
 
-Saat ini banyak perusahaan berbasis digital seperti Gojek, Tokopedia, Instagram, Telkom memanfaatkan Cloud Service karena memudahkan untuk mulai pembangunan dan analisis menggunakan infrastruktur digital yang dapat berkembang secara dinamis dengan tarif yang sangat teliti.
-Referensi cloud service: Amazon Web Service Microsoft Azure Google Cloud Platform
+Amazon Web Services (AWS):
+Amazon EC2 (Elastic Compute Cloud):
+
+Layanan komputasi awan yang menyediakan kapasitas komputasi skala terukur. Memungkinkan pelanggan untuk menyewa server virtual dan menjalankan aplikasi mereka.
+Amazon S3 (Simple Storage Service):
+
+Layanan penyimpanan objek yang dapat diakses dari mana saja di web. Digunakan untuk menyimpan dan mengambil data, termasuk file, gambar, dan objek lainnya.
+Amazon RDS (Relational Database Service):
+
+Layanan manajemen database yang menyederhanakan penyiapan, operasi, dan skalabilitas database relasional.
+AWS Lambda:
+
+Layanan komputasi tanpa server yang memungkinkan eksekusi kode berbasis kejadian atau berjadwal tanpa memerlukan server yang terus menerus aktif.
+Amazon VPC (Virtual Private Cloud):
+
+Layanan untuk membuat jaringan privat di AWS. Memungkinkan pengguna untuk mengisolasi sumber daya komputasi dan mengonfigurasi lingkungan jaringan mereka sendiri di awan.
+Microsoft Azure:
+Azure Virtual Machines:
+
+Layanan komputasi awan yang memungkinkan pelanggan menyewa server virtual untuk menjalankan aplikasi mereka.
+Azure Blob Storage:
+
+Layanan penyimpanan objek untuk menyimpan dan mengelola data yang dapat diakses dari internet.
+Azure SQL Database:
+
+Layanan manajemen database relasional yang memberikan kemudahan pengelolaan dan skalabilitas.
+Azure Functions:
+
+Layanan serverless yang memungkinkan eksekusi fungsi tanpa server sesuai dengan kebutuhan.
+Azure Virtual Network:
+
+Layanan jaringan untuk membuat jaringan privat di Azure dan mengisolasi sumber daya yang dideploy.
+Google Cloud Platform (GCP):
+Google Compute Engine:
+
+Layanan komputasi awan yang memungkinkan pelanggan menyewa mesin virtual dan mengelola aplikasi mereka.
+Google Cloud Storage:
+
+Layanan penyimpanan objek yang memungkinkan penyimpanan dan pengambilan data secara skalabilitas di internet.
+Google Cloud SQL:
+
+Layanan manajemen database relasional yang dapat diakses dan dikelola dengan mudah.
+Google Cloud Functions:
+
+Layanan serverless yang memungkinkan pengguna menulis dan menjalankan fungsi tanpa server.
+Google Virtual Private Cloud (VPC):
+
+Layanan untuk membuat dan mengonfigurasi jaringan privat virtual di GCP.
+Kesamaan dan Perbedaan Umum:
+Layanan Komputasi:
+
+Semua tiga penyedia menyediakan layanan komputasi awan, meskipun namanya berbeda (EC2 di AWS, Virtual Machines di Azure, Compute Engine di GCP).
+Penyimpanan Objek:
+
+AWS memiliki Amazon S3, Azure memiliki Azure Blob Storage, dan GCP memiliki Google Cloud Storage.
+Database:
+
+AWS memiliki Amazon RDS, Azure memiliki Azure SQL Database, dan GCP memiliki Cloud SQL.
+Serverless:
+
+Semua tiga penyedia memiliki layanan serverless, seperti AWS Lambda, Azure Functions, dan Google Cloud Functions.
+Jaringan Privat:
+
+AWS memiliki VPC, Azure memiliki Virtual Network, dan GCP memiliki Virtual Private Cloud.
+Setiap penyedia cloud memiliki keunggulan dan kelemahan masing-masing, dan pemilihan tergantung pada kebutuhan spesifik proyek atau organisasi Anda. Penting untuk memahami fitur dan harga masing-masing penyedia untuk membuat keputusan yang tepat.
+
 
 ## Mencoba Penggunaan Content Management System (Wordpress) [v] ⭐⭐⭐
 
@@ -267,7 +331,9 @@ Referensi cloud service: Amazon Web Service Microsoft Azure Google Cloud Platfor
 
 
 ## Mendaftar dan Mencoba Eksplorasi Kaggle [v] ⭐⭐⭐⭐
+! [gamabr] <img width="911" alt="Screenshot 2023-12-19 142300" src="https://github.com/Hasbi2104/Hasbi2104/assets/144440884/8065962f-39cf-4b4a-9d18-53a281133ecd">
 
+! [gamabr] <img width="921" alt="Screenshot 2023-12-19 142540" src="https://github.com/Hasbi2104/Hasbi2104/assets/144440884/829cc0c8-dbe2-446d-ad6e-0b58969cdbcb">
 
 ## Mencoba Protokol Komunikasi IoT (MQTT) [v] ⭐
 
