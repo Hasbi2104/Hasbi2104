@@ -98,7 +98,10 @@ Setiap jenis mesin komputasi memiliki kegunaan dan karakteristik khusus, dan pem
 
 ## Mencoba Scratch Bahasa Indonesia [v] ⭐⭐⭐⭐⭐⭐⭐
 
-Referensi 1
+! [gamabr] ![Screenshot (11)](https://github.com/Hasbi2104/Hasbi2104/assets/144440884/0b9ad70c-4167-4e57-8eef-cceaf6b54e14)
+
+! [gamabr] <img width="677" alt="Screenshot 2023-12-19 131521" src="https://github.com/Hasbi2104/Hasbi2104/assets/144440884/6c51402e-e744-4753-8e06-dcb8f7d144b3">
+
 
 ## Mencoba Algoritma Bubble Sort Menggunakan Java [v] ⭐⭐⭐
 
