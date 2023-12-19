@@ -396,7 +396,37 @@ Berkontribusi pada pendidikan dan penelitian di bidang informatika di perguruan 
 
 
 ## Eksplorasi Lowongan Pekerjaan IT ⭐⭐⭐
+1. Situs Pencarian Pekerjaan:
+Kunjungi situs-situs pencarian pekerjaan seperti LinkedIn Jobs, Indeed, Glassdoor, Monster, dan Dice. Gunakan kata kunci yang sesuai dengan keahlian dan minat Anda, seperti "software engineer," "data scientist," atau "IT support."
+2. LinkedIn:
+Perbarui profil LinkedIn Anda dan aktifkan opsi yang memungkinkan perekrut melihat bahwa Anda sedang mencari pekerjaan. Ikuti perusahaan dan bergabung dalam grup industri yang relevan.
+3. Karir di Situs Web Perusahaan:
+Langsung ke situs web perusahaan teknologi besar dan perusahaan yang Anda minati. Banyak perusahaan mempublikasikan lowongan pekerjaan langsung di portal karir mereka.
+4. Komunitas dan Forum Teknologi:
+Bergabung dalam komunitas online seperti GitHub, Stack Overflow, atau forum teknologi lainnya. Seringkali, ada diskusi tentang lowongan pekerjaan di sana.
+5. Portal Karir Industri:
+Untuk industri teknologi dan IT, periksa portal karir yang khusus untuk bidang tersebut. Contoh portal tersebut termasuk Dice, Stack Overflow Jobs, dan GitHub Jobs.
+6. Event dan Konferensi Virtual:
+Ikuti acara dan konferensi virtual di bidang IT. Terkadang, perusahaan menyelenggarakan pameran karir virtual di acara tersebut.
+7. Aplikasi Pencarian Pekerjaan:
+Unduh dan gunakan aplikasi pencarian pekerjaan seperti LinkedIn Jobs, Indeed, dan Glassdoor di ponsel Anda. Beberapa aplikasi memiliki fitur pemberitahuan untuk memberi tahu Anda tentang lowongan yang sesuai.
+8. Agensi Pekerjaan:
+Hubungi agensi perekrutan khusus IT yang dapat membantu Anda menemukan lowongan sesuai dengan keahlian Anda.
+9. Profil Freelance:
+Jika Anda tertarik dengan pekerjaan freelance atau proyek sementara, pertimbangkan untuk bergabung dengan platform seperti Upwork, Freelancer, atau Toptal.
+10. Perguruan Tinggi dan Universitas:
+Periksa situs web perguruan tinggi atau universitas yang memiliki program teknologi dan IT. Banyak perusahaan menyebarkan lowongan pekerjaan melalui kerjasama dengan lembaga pendidikan.
+11. Networking:
+Manfaatkan jaringan profesional Anda. Informasikan rekan kerja, teman, dan penghubung LinkedIn Anda bahwa Anda sedang mencari peluang baru di bidang IT.
+12. Pelatihan dan Sertifikasi:
+Jika Anda memiliki sertifikasi atau keterampilan khusus, kunjungi situs web penyedia sertifikasi dan pelatihan IT. Beberapa dari mereka memiliki bagian khusus untuk lowongan pekerjaan.
+13. Baca Review dan Evaluasi Perusahaan:
+Sebelum melamar, baca review dan evaluasi perusahaan di situs seperti Glassdoor untuk mendapatkan gambaran tentang pengalaman kerja di perusahaan tersebut.
+14. Ketahui Kebutuhan Industri:
+Tetap up-to-date dengan tren dan kebutuhan industri IT. Terkadang, posisi pekerjaan baru muncul seiring dengan perkembangan teknologi.
 
+
+! [gamabr] ![WhatsApp Image 2023-12-06 at 11 30 06_24b232f7](https://github.com/Hasbi2104/Hasbi2104/assets/144440884/b71e5605-a87b-46ba-b860-8c533e348974)
 
 ## Eksplorasi Lowongan Freelancer IT (Upwork / Toptal / Freelancer.com) ⭐⭐⭐
 
@@ -419,6 +449,10 @@ Berkontribusi pada pendidikan dan penelitian di bidang informatika di perguruan 
 ! [gamabr] <img width="640" alt="Screenshot 2023-12-19 132608" src="https://github.com/Hasbi2104/Hasbi2104/assets/144440884/bc597e2e-1d11-479a-b82f-dbe84b224056">
 
 ## Mengikuti Workshop / Event / Course Terkait IT ⭐⭐⭐⭐
+! [gamabr]![WhatsApp Image 2023-12-17 at 21 20 59_038c3ac3](https://github.com/Hasbi2104/Hasbi2104/assets/144440884/f37fcddd-2634-407a-8e41-fcf5fc2a83eb)
+
+
+! [gamabr] ![WhatsApp Image 2023-12-04 at 16 31 01_425b3981](https://github.com/Hasbi2104/Hasbi2104/assets/144440884/c0f831f3-b648-4225-bf1d-775661d68fdc)
 
 
 ## Membaca dan Mengambil Inspirasi Dari Buku Bertema Informatika ⭐⭐⭐⭐⭐
