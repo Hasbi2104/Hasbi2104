@@ -376,6 +376,12 @@ Setiap penyedia cloud memiliki keunggulan dan kelemahan masing-masing, dan pemil
 
 
 ## Eksplorasi Artikel Jurnal / Conference di Repository Terekognisi Internasional (IEEE / Arxiv / Science Direct / ACM /DBLP) [v] ⭐⭐⭐⭐
+<img width="509" alt="Screenshot 2023-12-19 175114" src="https://github.com/Hasbi2104/Hasbi2104/assets/144440884/f75358b5-036e-4490-b6c4-2125a31120f4">
+
+<img width="470" alt="Screenshot 2023-12-19 175147" src="https://github.com/Hasbi2104/Hasbi2104/assets/144440884/990c3f26-1f0a-4e0a-aa95-3e050bbd7792">
+
+<img width="483" alt="Screenshot 2023-12-19 175158" src="https://github.com/Hasbi2104/Hasbi2104/assets/144440884/4dae165c-6cfe-44f2-90d4-c4ce76f06206">
+
 
 
 ## Menonton Video Presentasi Tugas Akhir Informatika ⭐⭐⭐⭐⭐
