@@ -79,18 +79,22 @@ Setiap jenis mesin komputasi memiliki kegunaan dan karakteristik khusus, dan pem
 
 
 ## Mengktifkan dan Mencoba Google Colab [v] ⭐⭐⭐⭐⭐
+! [gamabr] !![Screenshot (8)](https://github.com/Hasbi2104/Hasbi2104/assets/144440884/21dc2dc3-0150-4d59-b247-76e14b2b1794)
+
 
 
 ## Mencoba Console Sistem Operasi Windows CMD [v] ⭐⭐⭐⭐
 
-Referensi 1
+! [gamabr] !![Screenshot (9)](https://github.com/Hasbi2104/Hasbi2104/assets/144440884/d49e7e7a-a50a-4ce4-a4a5-e59c567f5a5b)
+
 
 ## Linux Terminal Menggunakan Google Colab [v] ⭐⭐⭐⭐
 
 
 ## Membuat Algoritma Dalam Bentuk Flow Chart [v] ⭐⭐⭐⭐⭐
 
-Referensi 1
+! [gamabr] !<img width="488" alt="Screenshot 2023-12-19 124559" src="https://github.com/Hasbi2104/Hasbi2104/assets/144440884/55b6440b-cac3-4d60-9d1f-8a8d71469bc4">
+
 
 ## Mencoba Scratch Bahasa Indonesia [v] ⭐⭐⭐⭐⭐⭐⭐
 
