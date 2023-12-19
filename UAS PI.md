@@ -296,7 +296,7 @@ Referensi cloud service: Amazon Web Service Microsoft Azure Google Cloud Platfor
 
 
 ## Membangun Profil Github Page ⭐⭐⭐⭐⭐
-
+! [gamabr] <img width="640" alt="Screenshot 2023-12-19 132608" src="https://github.com/Hasbi2104/Hasbi2104/assets/144440884/bc597e2e-1d11-479a-b82f-dbe84b224056">
 
 ## Mengikuti Workshop / Event / Course Terkait IT ⭐⭐⭐⭐
 
