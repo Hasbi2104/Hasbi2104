@@ -285,7 +285,7 @@ Referensi cloud service: Amazon Web Service Microsoft Azure Google Cloud Platfor
 
 
 ## Menonton Video Presentasi Tugas Akhir Informatika ⭐⭐⭐⭐⭐
-
+! [gamabr] <img width="642" alt="Screenshot 2023-12-19 133511" src="https://github.com/Hasbi2104/Hasbi2104/assets/144440884/60613986-2897-411c-ad5f-aa6ceb2be985">
 
 ## Mengeksplorasi Seluruh Profesi Terkait Informatika dan Profesi yang Diminati ⭐⭐⭐⭐
 
@@ -318,3 +318,10 @@ Referensi cloud service: Amazon Web Service Microsoft Azure Google Cloud Platfor
 
 
 ## Membaca dan Mengambil Inspirasi Dari Buku Bertema Informatika ⭐⭐⭐⭐⭐
+! [gamabr] <img width="352" alt="Screenshot 2023-12-19 134411" src="https://github.com/Hasbi2104/Hasbi2104/assets/144440884/ae74edc3-cc05-4efc-be8b-8c20ff7de8e4">
+
+
+! [gamabr] <img width="344" alt="Screenshot 2023-12-19 134426" src="https://github.com/Hasbi2104/Hasbi2104/assets/144440884/916a2f0f-e029-4f06-ac91-675b02135d23">
+
+
+! [gamabr] <img width="343" alt="Screenshot 2023-12-19 134442" src="https://github.com/Hasbi2104/Hasbi2104/assets/144440884/94e154fd-1fd4-458e-b3dd-4d913b559d03">
