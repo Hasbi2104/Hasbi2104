@@ -104,6 +104,46 @@ Setiap jenis mesin komputasi memiliki kegunaan dan karakteristik khusus, dan pem
 
 
 ## Mencoba Algoritma Bubble Sort Menggunakan Java [v] ⭐⭐⭐
+public class BubbleSort {
+    public static void main(String[] args) {
+        // Array yang akan diurutkan
+        int[] arr = {64, 34, 25, 12, 22, 11, 90};
+
+        System.out.println("Array sebelum diurutkan:");
+        printArray(arr);
+
+        // Menggunakan Bubble Sort untuk mengurutkan array
+        bubbleSort(arr);
+
+        System.out.println("Array setelah diurutkan:");
+        printArray(arr);
+    }
+
+    // Metode untuk melakukan Bubble Sort
+    static void bubbleSort(int[] arr) {
+        int n = arr.length;
+
+        for (int i = 0; i < n - 1; i++) {
+            for (int j = 0; j < n - i - 1; j++) {
+                // Jika elemen saat ini lebih besar dari elemen berikutnya, tukar
+                if (arr[j] > arr[j + 1]) {
+                    // Melakukan pertukaran menggunakan pendekatan swap sederhana
+                    int temp = arr[j];
+                    arr[j] = arr[j + 1];
+                    arr[j + 1] = temp;
+                }
+            }
+        }
+    }
+
+    // Metode untuk mencetak array
+    static void printArray(int[] arr) {
+        for (int i = 0; i < arr.length; i++) {
+            System.out.print(arr[i] + " ");
+        }
+        System.out.println();
+    }
+}
 
 
 ## Mencoba dan Mendemonstrasikan Penggunakan IDE ⭐⭐
