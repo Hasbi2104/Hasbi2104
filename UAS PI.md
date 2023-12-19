@@ -309,7 +309,12 @@ Referensi cloud service: Amazon Web Service Microsoft Azure Google Cloud Platfor
 
 
 ## Membangun Profil Linkedin dan Mengikuti Akun-Akun Inspirasif Bertema Informatika ⭐⭐⭐
+! [gamabr] <img width="885" alt="Screenshot 2023-12-19 140444" src="https://github.com/Hasbi2104/Hasbi2104/assets/144440884/6a3361f2-d6c0-4c94-8847-49c7574ec0b5">
 
+
+! [gamabr]<img width="668" alt="Screenshot 2023-12-19 140532" src="https://github.com/Hasbi2104/Hasbi2104/assets/144440884/e34a6194-140f-40d9-9fbd-559c9c72ca50">
+
+! [gamabr]<img width="432" alt="Screenshot 2023-12-19 140708" src="https://github.com/Hasbi2104/Hasbi2104/assets/144440884/cee7aca1-374c-41ac-b0da-72ef62c6d8d9">
 
 ## Membangun Profil Github Page ⭐⭐⭐⭐⭐
 ! [gamabr] <img width="640" alt="Screenshot 2023-12-19 132608" src="https://github.com/Hasbi2104/Hasbi2104/assets/144440884/bc597e2e-1d11-479a-b82f-dbe84b224056">
