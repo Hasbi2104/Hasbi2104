@@ -218,9 +218,43 @@ Interaktivitas halaman web : JavaScript
 Referensi []
 
 ## Mencoba Pembuatan File JSON [v] ⭐⭐⭐
+import json
+
+ Data yang akan diubah menjadi JSON
+import json
+
+ Data yang akan diubah menjadi JSON
+data = {
+    "nama": "John Doe",
+    "umur": 30,
+    "alamat": {
+        "jalan": "Jl. Contoh",
+        "kota": "Kota Contoh",
+        "kode_pos": "12345"
+    },
+    "hobi": ["berenang", "membaca", "menulis"]
+}
+
+ Menuliskan data ke file JSON
+with open('data.json', 'w') as json_file:
+    json.dump(data, json_file, indent=2)
+
+print("File JSON telah berhasil dibuat: data.json")
 
 
 ## Mencoba Penggunaan Web Hosting Dengan Untuk Halaman HTML [v] ⭐⭐⭐
+<!DOCTYPE html>
+<html>
+   <head>
+      <title> </title>
+   </head>
+   <body>
+   </body>
+</html>
+
+
+
+<img width="496" alt="Screenshot 2023-12-19 173837" src="https://github.com/Hasbi2104/Hasbi2104/assets/144440884/5a7bce6e-320e-45da-9e6b-cd11872b2beb">
 
 
 ## Mencoba Penggunaan Web Hosting Dengan Untuk Web Service [v] ⭐⭐⭐
