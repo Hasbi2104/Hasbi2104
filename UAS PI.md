@@ -243,16 +243,6 @@ print("File JSON telah berhasil dibuat: data.json")
 
 
 ## Mencoba Penggunaan Web Hosting Dengan Untuk Halaman HTML [v] ⭐⭐⭐
-<!DOCTYPE html>
-<html>
-   <head>
-      <title> </title>
-   </head>
-   <body>
-   </body>
-</html>
-
-
 
 <img width="496" alt="Screenshot 2023-12-19 173837" src="https://github.com/Hasbi2104/Hasbi2104/assets/144440884/5a7bce6e-320e-45da-9e6b-cd11872b2beb">
 
