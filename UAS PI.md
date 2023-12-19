@@ -151,6 +151,9 @@ Salahsatu produk IDE adalah android studio
 ! [gamabr] <img width="932" alt="Screenshot 2023-12-19 143259" src="https://github.com/Hasbi2104/Hasbi2104/assets/144440884/76c1d828-530e-4853-84f2-bf067bc3e0bd">
 
 ## Mendaftar, Mengeksplorasi, dan Mendemonstrasikan Penggunaan HackerRank [v] ⭐⭐⭐⭐⭐
+<img width="930" alt="Screenshot 2023-12-19 151444" src="https://github.com/Hasbi2104/Hasbi2104/assets/144440884/d3690be5-c7d3-4735-8f5f-76022f0a7234">
+
+! [gamabr] <img width="930" alt="Screenshot 2023-12-19 150612" src="https://github.com/Hasbi2104/Hasbi2104/assets/144440884/6b121cda-caae-4eea-bf29-fd689af719d4">
 
 
 ## Mendemonstrasikan Pembuatan Aplikasi / Game Pada Platform : Mobile / Desktop / Web Browser ⭐⭐⭐⭐⭐
