@@ -404,6 +404,21 @@ Setiap penyedia cloud memiliki keunggulan dan kelemahan masing-masing, dan pemil
 
 
 ## Menjelaskan Jurnal, Conference, Artikel, Grade Jurnal [v] ⭐⭐⭐⭐⭐
+### Jurnal:
+
+Jurnal adalah bentuk publikasi ilmiah yang berisi artikel-artikel penelitian dan makalah ilmiah yang ditulis oleh para peneliti atau akademisi. Jurnal dapat ditemukan dalam bentuk cetak maupun elektronik. Isi jurnal biasanya melibatkan hasil penelitian yang telah melewati proses peer review, di mana ahli sebidang mengulas dan menilai kevalidan dan kualitas metodologi penelitian sebelum artikel diterbitkan. Jurnal ilmiah sering menjadi sumber informasi utama dalam dunia akademis dan penelitian.
+
+### Conference (Konferensi):
+
+Conference atau konferensi adalah pertemuan ilmiah yang diadakan untuk membahas topik tertentu atau bidang pengetahuan tertentu. Biasanya, konferensi melibatkan presentasi-presentation dari para ahli di bidangnya, dan ini dapat mencakup penyajian hasil penelitian terkini, diskusi panel, dan kegiatan kolaboratif lainnya. Konferensi dapat bersifat lokal, nasional, atau internasional, dan sering kali menjadi forum bagi para peneliti untuk bertukar ide dan membangun jaringan akademis.
+
+### Artikel:
+
+Artikel adalah karya tulis yang mencakup pemikiran, ide, atau informasi tertentu. Artikel dapat muncul dalam berbagai bentuk, seperti artikel berita, artikel ilmiah, artikel opini, atau artikel populer. Artikel ilmiah sering kali mengikuti struktur formal dan mencakup metodologi penelitian, temuan, dan kesimpulan. Artikel di media berita atau majalah populer mungkin lebih bersifat informatif atau berpendapat.
+
+### Grade Jurnal:
+
+Grade jurnal mengacu pada tingkat reputasi atau kualitas dari suatu jurnal ilmiah. Biasanya, jurnal-jurnal ilmiah diberi peringkat atau klasifikasi berdasarkan faktor-faktor seperti ketatnya proses peer review, dampak faktor (impact factor), dan reputasi di komunitas akademis. Peringkat ini dapat membantu peneliti atau akademisi menilai seberapa penting atau kredibel suatu jurnal dalam menerbitkan penelitian ilmiah. Contoh peringkat jurnal meliputi kategori seperti Q1, Q2, Q3, dan Q4, yang menunjukkan tingkat kualitas dari tinggi ke rendah.
 
 
 ## Eksplorasi Artikel Jurnal / Conference di Repository Terekognisi Internasional (IEEE / Arxiv / Science Direct / ACM /DBLP) [v] ⭐⭐⭐⭐
