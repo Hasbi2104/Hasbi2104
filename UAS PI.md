@@ -499,6 +499,8 @@ Tetap up-to-date dengan tren dan kebutuhan industri IT. Terkadang, posisi pekerj
 
 
 ## Eksplorasi Top Github Project yang Diminati ⭐⭐
+<img width="927" alt="Screenshot 2023-12-20 193213" src="https://github.com/Hasbi2104/Hasbi2104/assets/144440884/19b24902-dc08-41ce-be83-2aa74b285181">
+
 
 
 ## Membangun Profil Linkedin dan Mengikuti Akun-Akun Inspirasif Bertema Informatika ⭐⭐⭐
