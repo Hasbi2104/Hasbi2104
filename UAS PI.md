@@ -493,10 +493,21 @@ Tetap up-to-date dengan tren dan kebutuhan industri IT. Terkadang, posisi pekerj
 ! [gamabr] ![WhatsApp Image 2023-12-06 at 11 30 06_24b232f7](https://github.com/Hasbi2104/Hasbi2104/assets/144440884/b71e5605-a87b-46ba-b860-8c533e348974)
 
 ## Eksplorasi Lowongan Freelancer IT (Upwork / Toptal / Freelancer.com) ⭐⭐⭐
+## upwork
+<img width="923" alt="Screenshot 2023-12-20 195511" src="https://github.com/Hasbi2104/Hasbi2104/assets/144440884/d2cce7cf-331a-42be-a725-52228aa143dd">
+
+## Toptal
+<img width="916" alt="Screenshot 2023-12-20 195948" src="https://github.com/Hasbi2104/Hasbi2104/assets/144440884/931a2e83-d3ba-4a03-8363-3c03866e1067">
+
+## Freelancer.com
+<img width="929" alt="Screenshot 2023-12-20 200137" src="https://github.com/Hasbi2104/Hasbi2104/assets/144440884/10b72845-05d3-4e7c-a087-1bec1ce1788d">
+
+Setelaha saya melihat ke 3 website itu banyak pekerjaan yang di butuhkan sesuai kategori yang di butuhkan setiap pt nya 
 
 
 ## Eksplorasi dan Pilih Topik yang Diminati di Roadmap.sh ⭐⭐⭐
 Full Stack merujuk pada kemampuan seseorang atau kelompok untuk bekerja di seluruh tumpukan (stack) teknologi yang digunakan dalam pengembangan perangkat lunak. Tumpukan teknologi atau stack tersebut mencakup berbagai lapisan dari sisi depan (frontend) hingga sisi belakang (backend) suatu aplikasi.
+
 
 Secara umum, tumpukan teknologi tersebut dibagi menjadi dua bagian utama:
 
