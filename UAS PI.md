@@ -363,7 +363,8 @@ Setiap penyedia cloud memiliki keunggulan dan kelemahan masing-masing, dan pemil
 
 
 ## Mencoba Edit Konten Multimedia (Image, Audio, Video) [v] ⭐⭐
-
+1. **Image**<img width="333" alt="Screenshot 2023-12-20 234522" src="https://github.com/Hasbi2104/Hasbi2104/assets/144440884/a86b36cb-27a3-4658-ae82-5a311d28bae4">
+2. **Vidieo**https://drive.google.com/file/d/1_aOwvP92XmRrY7NMdgGVaQ_UMotrToFy/view?usp=sharing
 
 ## Mencoba Pembuatan Game dan Simulasi Menggunakan Logo [v] ⭐⭐
 
