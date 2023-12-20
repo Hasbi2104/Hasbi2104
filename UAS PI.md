@@ -196,7 +196,26 @@ Inspect Element (Opsional):
 ## Mendemonstrasikan dan Menjelaskan Komponen Dari Contoh Uniform Resource Locator (URL) [v] ⭐⭐
 
 Referensi: 1
+Uniform Resource Locator (URL) adalah cara untuk menunjukkan alamat suatu sumber daya di internet. URL terdiri dari beberapa komponen yang memberikan informasi tentang lokasi dan protokol yang digunakan untuk mengakses sumber daya tersebut. Berikut adalah contoh URL dan penjelasan komponennya:
 
+Contoh URL: https://www.contoh.com:8080/path/file.html?query=example
+
+Protokol (Protocol):
+
+https: Protokol yang digunakan untuk mengakses sumber daya. HTTPS (Hypertext Transfer Protocol Secure) adalah versi aman dari HTTP.
+Nama Host (Host Name):
+
+www.contoh.com: Menunjukkan host atau server tempat sumber daya tersebut berada. Dalam contoh ini, sumber daya berada di server dengan nama host "www.contoh.com".
+Port (Port):
+
+8080: Port adalah angka yang menunjukkan jalur khusus ke server. Dalam contoh ini, server mendengarkan pada port 8080. Port default untuk HTTPS adalah 443, dan jika tidak ditentukan, browser akan menganggapnya sebagai 443.
+Path (Path):
+
+/path/file.html: Path menunjukkan jalur atau direktori di server tempat file atau sumber daya berada. Dalam contoh ini, sumber daya berada di path "/path/" dan nama file adalah "file.html".
+Query String:
+
+?query=example: Query string memungkinkan penambahan parameter atau data tambahan yang dapat digunakan oleh server untuk memproses permintaan dengan lebih spesifik. Dalam contoh ini, ada parameter query dengan nama "query" dan nilai "example".
+Setiap bagian ini memiliki peran masing-masing dalam membentuk URL lengkap yang merujuk pada sumber daya di internet. Perlu dicatat bahwa tidak semua URL harus memiliki semua komponen ini; beberapa dari mereka dapat dihilangkan tergantung pada kebutuhan dan pengaturan server.
 ## Mencoba Pelacakan Informasi Server dari Alamat Domain [v] ⭐
 
 Referensi terkait: 1 2
@@ -204,18 +223,30 @@ Referensi terkait: 1 2
 ## Mencoba Pembuatan Halaman Web Menggunakan HTML, CSS, dan JavaScript [v] ⭐⭐⭐
 
 Referensi tutorial
+<img width="928" alt="Screenshot 2023-12-20 100344" src="https://github.com/Hasbi2104/Hasbi2104/assets/144440884/acb2d923-a444-467d-a2b6-a79ec4d07451">
 
-Isi konten halaman web : HTML
-
-Styling halaman web : CSS
-
-Interaktivitas halaman web : JavaScript
+![Screenshot (12)](https://github.com/Hasbi2104/Hasbi2104/assets/144440884/1817b244-b5ed-41de-a4a9-4cb4d59ac4e8)
 
 
 
 ## Mencoba Penerapan Teknik Search Engine Optimization (SEO) Pada HTML [v] ⭐⭐⭐
 
-Referensi []
+Dalam era digital yang semakin berkembang, penerapan Teknik Search Engine Optimization (SEO) menjadi krusial bagi situs web untuk meningkatkan visibilitasnya di mesin pencari. Artikel ini akan membahas langkah-langkah praktis penerapan teknik SEO pada HTML, memastikan konten dapat diindeks dengan baik oleh mesin pencari dan mencapai peringkat yang optimal.
+
+1. Penggunaan Tag Title yang Efektif
+Tag title merupakan elemen HTML yang krusial untuk SEO. Pastikan setiap halaman memiliki tag title yang unik, deskriptif, dan mengandung kata kunci yang relevan dengan konten halaman tersebut. Hindari title yang terlalu panjang dan pastikan setiap halaman memiliki judul yang menarik perhatian pengguna.
+
+2. Meta Description yang Menggoda
+Setiap halaman juga memerlukan meta description yang informatif dan menggoda. Gunakan kalimat singkat yang menjelaskan konten halaman dan mengandung kata kunci penting. Mesin pencari akan menampilkan meta description ini sebagai cuplikan di hasil pencarian, sehingga pastikan mengundang pengguna untuk mengklik.
+
+3. Penggunaan Heading Tags Secara Hierarkis
+Gunakan heading tags (h1, h2, h3, dst.) secara hierarkis untuk memberikan struktur pada konten Anda. Heading tags membantu mesin pencari memahami hierarki informasi di halaman Anda. Pastikan kata kunci penting termasuk dalam heading tags, tetapi hindari penggunaan berlebihan yang dapat merugikan pengalaman pengguna.
+
+4. Optimalisasi URL
+URL yang ramah SEO membantu mesin pencari dan pengguna memahami isi halaman. Gunakan URL yang deskriptif, singkat, dan mengandung kata kunci yang relevan. Hindari penggunaan karakter khusus atau ID yang tidak bermakna.
+
+5. Penggunaan Alt Text pada Gambar
+Jika halaman Anda mengandung gambar, pastikan setiap gambar memiliki atribut alt text yang deskriptif dan mengandung kata kunci yang relevan. Ini membantu mesin pencari memahami konten gambar dan memberikan nilai tambah untuk SEO.
 
 ## Mencoba Pembuatan File JSON [v] ⭐⭐⭐
 import json
