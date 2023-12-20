@@ -496,6 +496,53 @@ Tetap up-to-date dengan tren dan kebutuhan industri IT. Terkadang, posisi pekerj
 
 
 ## Eksplorasi dan Pilih Topik yang Diminati di Roadmap.sh ⭐⭐⭐
+Full Stack merujuk pada kemampuan seseorang atau kelompok untuk bekerja di seluruh tumpukan (stack) teknologi yang digunakan dalam pengembangan perangkat lunak. Tumpukan teknologi atau stack tersebut mencakup berbagai lapisan dari sisi depan (frontend) hingga sisi belakang (backend) suatu aplikasi.
+
+Secara umum, tumpukan teknologi tersebut dibagi menjadi dua bagian utama:
+
+Frontend (Sisi Depan):
+
+Bahasa Pemrograman: HTML, CSS, JavaScript.
+Framework dan Library: React, Angular, Vue.js.
+Desain Antarmuka Pengguna (UI/UX): Bootstrap, Materialize, Ant Design.
+Backend (Sisi Belakang):
+
+Bahasa Pemrograman: Java, Python, Ruby, PHP, Node.js.
+Framework dan Library: Express.js (Node.js), Flask (Python), Ruby on Rails (Ruby), Spring (Java).
+Basis Data (Database): MySQL, PostgreSQL, MongoDB.
+Server: Apache, Nginx.
+Seorang pengembang Full Stack memiliki pengetahuan dan keahlian dalam kedua sisi ini, memungkinkan mereka untuk merancang, mengembangkan, dan mengelola seluruh aplikasi web atau proyek perangkat lunak secara end-to-end.
+
+Peran Full Stack Developer:
+Pengembangan Frontend:
+
+Merancang dan mengimplementasikan antarmuka pengguna yang responsif.
+Membangun dan mengelola komponen UI menggunakan framework atau library tertentu.
+Pengembangan Backend:
+
+Merancang dan mengimplementasikan logika bisnis aplikasi.
+Mengelola permintaan dan respons dari sisi klien (frontend).
+Berinteraksi dengan basis data untuk menyimpan dan mengambil data.
+Manajemen Database:
+
+Merancang skema basis data.
+Menulis kueri SQL untuk manipulasi data.
+Penanganan Server dan Infrastruktur:
+
+Konfigurasi server.
+Menangani aspek-aspek server-side seperti keamanan dan kinerja.
+Integrasi Sistem:
+
+Mengintegrasikan berbagai komponen dan layanan sistem.
+Memastikan seluruh aplikasi berjalan dengan lancar.
+Keahlian Full Stack Developer membuat mereka fleksibel dan dapat berkontribusi dalam berbagai aspek pengembangan perangkat lunak. Namun, karena perkembangan teknologi yang cepat, seringkali mereka memilih untuk lebih mendalam di satu sisi (frontend atau backend) sesuai dengan minat dan keahlian khusus mereka.
+<img width="689" alt="Screenshot 2023-12-20 194050" src="https://github.com/Hasbi2104/Hasbi2104/assets/144440884/56be0156-6b79-425a-be69-e61b59bac63c">
+
+<img width="650" alt="Screenshot 2023-12-20 194111" src="https://github.com/Hasbi2104/Hasbi2104/assets/144440884/451549e2-8a6a-4f10-ab3c-27d236590633">
+
+<img width="722" alt="Screenshot 2023-12-20 194145" src="https://github.com/Hasbi2104/Hasbi2104/assets/144440884/e039a745-d976-471e-b638-ec1d54e57479">
+
+<img width="434" alt="Screenshot 2023-12-20 194152" src="https://github.com/Hasbi2104/Hasbi2104/assets/144440884/496f1911-9935-407a-8253-bee4ed972357">
 
 
 ## Eksplorasi Top Github Project yang Diminati ⭐⭐
