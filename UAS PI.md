@@ -660,13 +660,34 @@ Jaringan Privat:
 
 AWS memiliki VPC, Azure memiliki Virtual Network, dan GCP memiliki Virtual Private Cloud.
 Setiap penyedia cloud memiliki keunggulan dan kelemahan masing-masing, dan pemilihan tergantung pada kebutuhan spesifik proyek atau organisasi Anda. Penting untuk memahami fitur dan harga masing-masing penyedia untuk membuat keputusan yang tepat.
+![image](https://github.com/Hasbi2104/Hasbi2104/assets/144440884/318cf158-40c7-4f55-9658-d22bf94d8b13)
+
+
 
 
 ## Mencoba Penggunaan Content Management System (Wordpress) [v] ⭐⭐⭐
 
+![Screenshot (13)](https://github.com/Hasbi2104/Hasbi2104/assets/144440884/88b48101-bb2a-4824-a5b5-76c426d220f9)
+
 
 ## Mendemonstrasikan Akses Konten Multimedia (Image, Audio, Video) ⭐⭐⭐
-
+- akses konten dapat dilihat dari youtube, ataupun webstie-website streaming seperti:
+  1. gambar dan icon:
+-  Pinterest
+-  shutterstock
+-  freepik
+-  unsplash
+-  pexels
+-  video:
+2.  youtube
+-  envanto elements
+-  netflix
+3.  Audio:
+-  spotify
+-  soundclouds
+-  envantoelements
+-  pixelabs
+-  etc
 
 ## Mencoba Edit Konten Multimedia (Image, Audio, Video) [v] ⭐⭐
 1. **Image**<img width="333" alt="Screenshot 2023-12-20 234522" src="https://github.com/Hasbi2104/Hasbi2104/assets/144440884/a86b36cb-27a3-4658-ae82-5a311d28bae4">
@@ -674,27 +695,84 @@ Setiap penyedia cloud memiliki keunggulan dan kelemahan masing-masing, dan pemil
 
 ## Mencoba Pembuatan Game dan Simulasi Menggunakan Logo [v] ⭐⭐
 
+Bahasa pemrograman Logo adalah bahasa pemrograman yang diciptakan pada tahun 1967 oleh Seymour Papert dan tim di Laboratorium Kecerdasan Buatan Massachusetts Institute of Technology (MIT). Logo dirancang untuk digunakan sebagai alat pendidikan, khususnya untuk mengajarkan konsep-konsep pemrograman kepada anak-anak.
+
+Ciri-ciri utama bahasa pemrograman Logo meliputi:
+
+1. Sederhana dan Intuitif:
+
+- Logo didesain agar mudah dipahami, bahkan oleh anak-anak. Struktur bahasanya sederhana dan intuitif.
+2. Turtle Graphics:
+
+- Salah satu fitur utama Logo adalah "turtle graphics," di mana pemrogram dapat mengendalikan gambar sederhana yang disebut "turtle" untuk menggambar di layar. Perintah-perintah seperti forward, backward, right, dan left digunakan untuk menggerakkan turtle.
+3. Interaktif:
+
+- Logo bersifat interaktif, memungkinkan pengguna untuk berinteraksi langsung dengan perintah-perintah dan melihat hasilnya secara langsung di layar.
+4. Prosedur dan Fungsi:
+
+- Logo mendukung konsep prosedur dan fungsi, memungkinkan pemrogram untuk membuat dan menggunakan blok-blok kode yang dapat dipanggil.
+Pendidikan dan Pembelajaran:
+
+- Tujuan utama Logo adalah menjadi alat pendidikan yang efektif. Dengan menggunakan turtle graphics, anak-anak dapat belajar konsep-konsep pemrograman sambil bersenang-senang.
+5. Konsep Rekursi:
+
+- Logo memperkenalkan konsep rekursi dengan fitur pemanggilan diri sendiri, yang dapat digunakan untuk membuat struktur repetitif dan pola-pola kompleks.
+6. Portabilitas:
+
+- Logo telah diimplementasikan dalam berbagai versi untuk berbagai platform dan sistem operasi.
+7. Open Source:
+
+Beberapa implementasi Logo bersifat open source, memungkinkan pengembang untuk mengakses dan memodifikasi sumber kode sesuai kebutuhan.
+Meskipun Logo awalnya dikembangkan untuk tujuan pendidikan anak-anak, konsep-konsep dalam Logo, seperti rekursi dan kontrol alur, memiliki nilai yang luas dan dapat membantu pemula memahami dasar-dasar pemrograman. Implementasi Logo yang populer termasuk "UCBLogo" dan "MSWLogo." Meskipun tidak sepopuler beberapa bahasa pemrograman lainnya, Logo tetap relevan sebagai alat pembelajaran pemrograman dasar.
+![image](https://github.com/Hasbi2104/Hasbi2104/assets/144440884/2292a8a0-682e-44b2-912f-220836a5945c)
+
+
 
 ## Mencoba Pemrosesan Konten Multimedia (Image, Audio) Menggunakan Google Colab [v] ⭐⭐⭐
+<img width="923" alt="Screenshot 2023-12-30 164348" src="https://github.com/Hasbi2104/Hasbi2104/assets/144440884/e630a0ad-1b4f-4084-ab8e-241e9b1d05c0">
 
 
 ## Mencoba Web Tool AI Discriminative (Image Classification) [v] ⭐⭐⭐⭐
 
+![image](https://github.com/Hasbi2104/Hasbi2104/assets/144440884/be5d3ed6-530e-4fb8-bf8d-f1a31eeb88f5)
 
+kode AI learning Tensorflow di Google colab, mengenali apa itu "bunga"
+![image](https://github.com/Hasbi2104/Hasbi2104/assets/144440884/666c6b40-19c3-43e9-9330-0f7f07a055d6)
+
+- Microsoft Azure AI vision
+- ChatGPT
 ## Mencoba Web Tool AI Generative (Text to Image, Text to Text) [v] ⭐⭐⭐⭐
+disini kita akan mencoba beberapa model AI untuk mengenerate logo dan gambar dengan prompt yang sama, yaitu "create a logo design of an online and the most execellent fintech apps called LOKALII with mostly red element"
+- Microsoft BING AI
+- ![image](https://github.com/Hasbi2104/Hasbi2104/assets/144440884/b741e7ad-289c-4cac-80a0-aa621a340318)
+  
 
 
 ## Mencoba Model Machine Learning Menggunakan Google Colab, TTS, Speechrecognition, dan HuggingFace [v] ⭐⭐⭐
 
+![image](https://github.com/Hasbi2104/Hasbi2104/assets/144440884/d91e511a-d8d6-46ff-b7a8-55a807a826d7)
 
 ## Mencoba Data Visualization Dengan Tools [v] ⭐⭐
+Data visualization menggunakan tools dapat dilakukan dengan beberapa online tools seperti:
+
+- Google Data Studio
+
+- MatPlotLib python
+
+- D3.js
+
+- dan yang paling terkenal yaitu Microsoft EXCEL
+  ![image](https://github.com/Hasbi2104/Hasbi2104/assets/144440884/1847b16e-a4af-4c98-bdc2-941cfc3e7bb1)
 
 
 ## Mencoba Data Visualization Dengan Code [v] ⭐⭐
-
+- dengan meggunakan Matplotlib yang berbasis python, ktita dapat melakukan data visualization dengan code (membuat grafik statistik data)
+  
+![image](https://github.com/Hasbi2104/Hasbi2104/assets/144440884/35d7a2a4-9731-4558-8fc3-59c9e1d3f606)
 
 ## Mendaftar dan Mencoba Eksplorasi HuggingFace [v] ⭐⭐⭐
 
+![image](https://github.com/Hasbi2104/Hasbi2104/assets/144440884/a01a2a0f-43b4-4872-b456-d6be9e7fec7c)
 
 ## Mendaftar dan Mencoba Eksplorasi Kaggle [v] ⭐⭐⭐⭐
 ! [gamabr] <img width="911" alt="Screenshot 2023-12-19 142300" src="https://github.com/Hasbi2104/Hasbi2104/assets/144440884/8065962f-39cf-4b4a-9d18-53a281133ecd">
@@ -703,12 +781,27 @@ Setiap penyedia cloud memiliki keunggulan dan kelemahan masing-masing, dan pemil
 
 ## Mencoba Protokol Komunikasi IoT (MQTT) [v] ⭐
 
+Protokol komunikasi IoT MyMQTT adalah salah satu protokol yang digunakan dalam Internet of Things (IoT) untuk memungkinkan perangkat IoT berkomunikasi satu sama lain. MyMQTT adalah implementasi protokol MQTT (Message Queuing Telemetry Transport) yang merupakan protokol lightweight dan berbasis publish-subscribe. maksudnya kita harus subscribe ke suatu channel yang ada di port yang telah ditentukan agar dapat berkomunikasi antar pernagkat satu sama lain Dalam konteks MyMQTT, perangkat IoT dapat berperan sebagai pengirim atau penerima pesan. Mereka dapat mempublikasikan pesan ke topik tertentu atau berlangganan ke topik untuk menerima pesan. Protokol ini dirancang untuk efisiensi, kehandalan, dan keamanan dalam komunikasi antarperangkat IoT. Jadi, secara umum, MyMQTT memfasilitasi pertukaran data yang efisien antarperangkat IoT melalui model publish-subscribe, di mana perangkat dapat mengirim dan menerima pesan pada topik-topik tertentu.
+
+Penggunaan MyMQTT telah dilaksanakan di kelas matkul Pengenalan Informatika, yang di inisiasi oleh pak Insan Al-Amin
+![image](https://github.com/Hasbi2104/Hasbi2104/assets/144440884/8b3548d1-8223-4320-83da-cadeadc5758d)
+![image](https://github.com/Hasbi2104/Hasbi2104/assets/144440884/df0dc877-5f5c-4e2c-98e7-8a8be663a983)
+
 
 ## Mencoba Memproses File CSV Menggunakan Google Colab [v] ⭐⭐
+ile csv (Comma-Separated Values) adalah format penyimpanan data yang digunakan untuk menyimpan dan mengelola data dalam bentuk teks yang sederhana dan terstruktur. Format ini memungkinkan data untuk disimpan dalam tabel, di mana setiap baris dari tabel mewakili satu baris data, dan kolom-kolomnya dipisahkan oleh tanda koma. File CSV sering digunakan untuk pertukaran data antara aplikasi dan platform yang berbeda.
+<img width="580" alt="Screenshot 2023-12-30 165749" src="https://github.com/Hasbi2104/Hasbi2104/assets/144440884/64ffe863-406c-46e9-ab61-d6c89219dd11">
 
 
 ## Mencoba Memproses File Big Data ORC Menggunakan Google Colab [v] ⭐⭐
+ORC dalam big data adalah Optimized Row Columnar File ORC (Optimized Row Columnar) dalam konteks Big Data adalah format penyimpanan kolom yang dioptimalkan untuk kinerja query dan analisis data. Format ini dikembangkan terutama untuk digunakan dengan Apache Hive, sebuah platform query data yang dibangun di atas Apache Hadoop.
 
+Dalam file ORC, data disusun dalam bentuk kolom (columnar storage) alih-alih baris (row-based storage) seperti format file tradisional. Ini memungkinkan keuntungan performa tertentu, terutama ketika hanya sebagian kecil dari kolom yang dibaca atau diakses dalam query.
+![image](https://github.com/Hasbi2104/Hasbi2104/assets/144440884/49a104db-9387-4926-9e7e-d414b9f0cf0f)
+
+![image](https://github.com/Hasbi2104/Hasbi2104/assets/144440884/45c8f635-48cd-465e-b185-47741b7dddb5)
+
+![image](https://github.com/Hasbi2104/Hasbi2104/assets/144440884/b96dda4f-fd4d-4ff3-8826-9ace66d7744c)
 
 ## Menjelaskan Jurnal, Conference, Artikel, Grade Jurnal [v] ⭐⭐⭐⭐⭐
 ### Jurnal:
@@ -777,9 +870,18 @@ Berkontribusi pada pendidikan dan penelitian di bidang informatika di perguruan 
 
 ## Eksplorasi Tools Untuk Belajar Bahasa Inggris (Duolingo) ⭐⭐⭐
 
+penggunaan duolingo sebagai sarana pembelajaran bahasa asing (menambah wawasan bahasa inggris)
+
+![image](https://github.com/Hasbi2104/Hasbi2104/assets/144440884/99a0d809-d02a-410d-bce7-425f721a2871)
+![image](https://github.com/Hasbi2104/Hasbi2104/assets/144440884/cbdf9cd0-90e1-4c5d-acd1-d1738413da90)
 
 ## Eksplorasi Tools Untuk Belajar Berbicara Bahasa Inggris (HelloTalk) ⭐⭐⭐
 
+Hellotalk adalah aplikasi yang mempertemukan strangers secara online, untuk saling bertukar budaya dan bahasa serta menjalin pertemanan antar negara yang jauh, antar bahasa dan kultur yang berbeda juga.
+
+percobaan HelloTalk (sign in dengan akun google)
+![image](https://github.com/Hasbi2104/Hasbi2104/assets/144440884/ad8a9ccb-e242-4454-afd9-b2d4c21e37de)
+![image](https://github.com/Hasbi2104/Hasbi2104/assets/144440884/262aab12-9672-4129-be9d-32c2a9dd4e1f)
 
 ## Eksplorasi Lowongan Pekerjaan IT ⭐⭐⭐
 1. Situs Pencarian Pekerjaan:
