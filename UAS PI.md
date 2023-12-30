@@ -541,7 +541,14 @@ print("File JSON telah berhasil dibuat: data.json")
 
 
 ## Mencoba Penggunaan Web Hosting Dengan Untuk Web Service [v] ⭐⭐⭐
+1. cari tahu dulu apa itu web service
+![image](https://github.com/Hasbi2104/Hasbi2104/assets/144440884/7e2b58bc-c1cc-4653-9fe1-cdea0bb0639c)
+2. pelajari cara membuat nya (saya menggunakan tutorial dari ChatGPT)
 
+3. instalasi Flask dan update pip python
+
+4. buuat kode nya
+![image](https://github.com/Hasbi2104/Hasbi2104/assets/144440884/429982a1-e682-45d5-9415-e4d124c97f30)
 
 ## Mencoba HTTP Request dan Web API dengan Hoppscotch / Postman [v] ⭐⭐
 Eksplorasi Web API dengan Postman API dimulai dengan pembuatan akun
