@@ -326,9 +326,26 @@ public class BubbleSort {
     }
 }
 
+bubbleSort(int[] arr): Fungsi ini menerapkan algoritma Bubble Sort untuk mengurutkan array secara ascending (dari yang terkecil ke yang terbesar).
 
+Parameter: int[] arr - Array yang akan diurutkan.
+Implementasi: Dengan menggunakan nested loop, fungsi ini membandingkan elemen-elemen bersebelahan dari array dan menukar mereka jika urutannya salah. Proses ini diulang hingga seluruh array terurut.
+printArray(int[] arr): Fungsi ini mencetak elemen-elemen array ke konsol.
+
+Parameter: int[] arr - Array yang akan dicetak.
+Implementasi: Menggunakan loop untuk menelusuri seluruh elemen array dan mencetaknya ke layar dengan spasi di antara setiap elemen. Setelah mencetak seluruh elemen, mencetak baris baru.
+main method: Kode di dalam main method mencetak array sebelum dan setelah diurutkan menggunakan Bubble Sort.
+
+Pertama, mencetak array sebelum diurutkan dengan memanggil printArray(arr).
+Selanjutnya, mengurutkan array menggunakan bubbleSort(arr).
+Terakhir, mencetak array setelah diurutkan dengan memanggil kembali printArray(arr).
 ## Mencoba dan Mendemonstrasikan Penggunakan IDE ⭐⭐
 Salahsatu produk IDE adalah android studio
+Penggunaan IDE merupakan salah satu basic skill seorang programmer yang harusnya sudah berada diluar kepalanya. Karena IDE sendiri memiliki beberapa benefit besar yang dapat dimanfaatkan dan sangat membantu bagi seorang programmer yang mana pekerjaannya adalah menulis kode. IDE, atau Integrated Development Environment, adalah suatu perangkat lunak yang menyediakan berbagai alat dan fitur untuk memudahkan pengembangan perangkat lunak. IDE biasanya mencakup editor kode sumber, compiler atau interpreter, debugger, dan seringkali alat bantu lain seperti manajer proyek, pengatur versi, dan pembuat antarmuka pengguna. IDE yang selama ini telah saya coba dan demonstrasikan yaitu:
+
+- Visual Studio dari Microsoft
+- Android Studio (dalam pengembangan aplikasi mobile)
+- Visual Studio Code sebagai text editor dalam banyak project dan tugas---- tugas dari dosen
 ! [gamabr] <img width="932" alt="Screenshot 2023-12-19 143259" src="https://github.com/Hasbi2104/Hasbi2104/assets/144440884/76c1d828-530e-4853-84f2-bf067bc3e0bd">
 
 ## Mendaftar, Mengeksplorasi, dan Mendemonstrasikan Penggunaan HackerRank [v] ⭐⭐⭐⭐⭐
@@ -339,7 +356,7 @@ Salahsatu produk IDE adalah android studio
 
 ## Mendemonstrasikan Pembuatan Aplikasi / Game Pada Platform : Mobile / Desktop / Web Browser ⭐⭐⭐⭐⭐
 
-
+(masukin tugas UTS Pengenalan Informatika) (APP: LOKALII) link github repository: 
 ## Mencoba Instalasi Database (PostgreSQL / MySQL / dsb.) [v] ⭐⭐⭐
 
 Referensi installer PostgreSQL
