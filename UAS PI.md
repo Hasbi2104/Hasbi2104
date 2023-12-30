@@ -356,16 +356,38 @@ Penggunaan IDE merupakan salah satu basic skill seorang programmer yang harusnya
 
 ## Mendemonstrasikan Pembuatan Aplikasi / Game Pada Platform : Mobile / Desktop / Web Browser ⭐⭐⭐⭐⭐
 
-(masukin tugas UTS Pengenalan Informatika) (APP: LOKALII) link github repository: 
+(masukin tugas UTS Pengenalan Informatika) (APP: LOKALII) link github repository: https://github.com/Hasbi2104/tugas-uts/blob/main/RABBANI.md 
 ## Mencoba Instalasi Database (PostgreSQL / MySQL / dsb.) [v] ⭐⭐⭐
 
 Referensi installer PostgreSQL
 Referensi tambahan 1
+![image](https://github.com/Hasbi2104/Hasbi2104/assets/144440884/f3848856-c64c-4289-bc2d-509fd6a48d00)
+Kenapa MySQL? : MySQL seringkali menjadi pilihan karena beberapa alasan. Pertama, MySQL adalah database open-source yang dapat diakses dan digunakan secara gratis, membuatnya ekonomis untuk banyak proyek. Selain itu, MySQL memiliki kinerja yang baik dan dapat menangani beban kerja tinggi dengan cepat dan efisien.
+
+MySQL juga mendukung banyak fitur penting seperti indeks, transaksi, dan keamanan yang dapat diandalkan. Keberlanjutan dan dukungan komunitas yang besar juga merupakan keuntungan, karena banyak pengembang yang berkontribusi pada pengembangan dan pemeliharaan MySQL.
+Referensi installer PostgreSQL Referensi tambahan 1
+
+
+![image](https://github.com/Hasbi2104/Hasbi2104/assets/144440884/dc4127c8-2726-4659-8f7e-f644d4a04491)
+
 
 ## Mencoba Eksplorasi dan Query Database Menggunakan Database Explorer (Dbeaver / dsb.) [v] ⭐⭐⭐
 
 Referensi installer Dbeaver
 Referensi 1
+code yang digunakan kebanyakan adalah Java dan running dengan JDK 17
+![image](https://github.com/Hasbi2104/Hasbi2104/assets/144440884/3b7aeaa7-8ecd-4120-b860-8f0257a42e3f)
+apa itu query database? : Eksplorasi dan query database adalah proses mengakses, menganalisis, dan memanipulasi data yang tersimpan dalam suatu basis data. Ada beberapa cara untuk melakukan eksplorasi dan query database, tergantung pada jenis database yang digunakan dan alat yang tersedia. Berikut adalah panduan umum untuk melakukan eksplorasi dan query database:
+Eksplorasi Database:
+1. Memahami Struktur Database:
+
+- Ketahui skema dan struktur tabel dalam database. Identifikasi kolom-kolom, tipe data, dan hubungan antar tabel.
+2. Menggunakan Alat Manajemen Database:
+
+- Gunakan alat manajemen database seperti MySQL Workbench, pgAdmin (untuk PostgreSQL), atau SQL Server Management Studio (SSMS) untuk secara visual menavigasi dan menjelajahi database.
+3. Menampilkan Sampel Data:
+
+- Jalankan perintah SQL SELECT untuk menampilkan sampel data dari tabel tertentu.
 
 ## Mendemonstrasikan dan Menjelaskan Penggunaan Web Browser untuk Mengakses Halaman Website HTML [v] ⭐⭐⭐⭐
 Saya dapat memberikan penjelasan tentang cara menggunakan web browser untuk mengakses halaman web HTML, tetapi perlu diingat bahwa ini adalah proses yang sangat umum dan mungkin sudah dikenal oleh banyak pengguna. Jika ada hal yang spesifik yang ingin Anda ketahui atau Anda ingin mendemonstrasikan kepada orang lain, beri tahu saya sehingga saya dapat memberikan informasi yang lebih sesuai.
@@ -388,6 +410,20 @@ Interaksi dengan Halaman:
 
 Anda dapat berinteraksi dengan halaman web tersebut dengan mengklik tautan, mengisi formulir, atau menjelajah ke halaman lain.
 Inspect Element (Opsional):
+- HTML (Hypertext Markup Language) dirancang khusus untuk ditampilkan di web browser. Ada beberapa alasan mengapa HTML harus ditampilkan di browser: (diambil dari artikel)
+1. Interaktivitas: HTML menyediakan elemen dan tag yang memungkinkan pembuatan halaman web interaktif. Browser memahami struktur HTML dan mampu menampilkan elemen-elemen ini dengan cara yang memungkinkan pengguna berinteraksi dengan konten.
+
+2. Rendering dan Tampilan: Browser memiliki mesin rendering yang dapat menafsirkan dan menampilkan HTML dengan cara yang sesuai dengan standar web. Mereka mengonversi markup HTML menjadi tata letak visual yang dapat dilihat oleh pengguna.
+
+3. Kemampuan Menangani Multimedia: HTML tidak hanya menyediakan teks dan gambar, tetapi juga mendukung multimedia seperti audio dan video. Browser memiliki kemampuan bawaan untuk memainkan dan menampilkan elemen-elemen multimedia ini.
+
+4. Koneksi ke Server: HTML bekerja secara terintegrasi dengan protokol HTTP dan HTTPS untuk mengambil informasi dari server. Browser bertindak sebagai klien yang meminta dan menampilkan halaman web dari server.
+
+5. Pemrosesan Skrip: HTML dapat menyertakan skrip JavaScript yang dieksekusi oleh browser untuk menambahkan fungsionalitas dinamis ke halaman web. Browser memiliki mesin JavaScript yang memproses dan menjalankan skrip ini.
+
+6. Kemampuan untuk Menavigasi: HTML menyediakan elemen-elemen seperti tautan (<a>) yang memungkinkan navigasi antarhalaman. Browser memungkinkan pengguna untuk mengklik tautan dan beralih antarhalaman dengan mudah.
+
+7. Jadi, HTML dan browser bekerja sama untuk memberikan pengalaman pengguna yang kaya dan interaktif di dunia web. HTML sendiri adalah bahasa markup statis, dan browser menyediakan lingkungan yang dapat menafsirkan, memproses, dan menampilkan halaman web sesuai dengan spesifikasi HTML.
 
 
 
@@ -417,6 +453,34 @@ Setiap bagian ini memiliki peran masing-masing dalam membentuk URL lengkap yang 
 ## Mencoba Pelacakan Informasi Server dari Alamat Domain [v] ⭐
 
 Referensi terkait: 1 2
+Pelacakan informasi server dari alamat domain dapat dilakukan dengan menggunakan berbagai alat dan metode. Beberapa cara umum untuk melacak informasi server termasuk:
+
+- Whois Lookup:
+
+- Whois adalah layanan yang menyediakan informasi terkait kepemilikan dan registrasi nama domain. Anda dapat menggunakan situs web atau alat Whois untuk mencari informasi seperti nama pemilik domain, informasi kontak, dan informasi registrar. Banyak penyedia domain juga menyediakan layanan Whois mereka sendiri.
+- Command-line Tools:
+
+Dalam lingkungan command-line, Anda dapat menggunakan perintah seperti nslookup atau dig untuk mendapatkan informasi DNS dari suatu domain. Misalnya:
+nslookup example.com
+atau
+dig example.com
+- Online Tools dan Situs Web:
+
+Ada banyak situs web dan alat online yang memungkinkan Anda untuk melakukan pelacakan informasi server dari alamat domain. Contoh termasuk "Whois Lookup" di situs web ICANN atau layanan-layanan serupa.
+- DNS Lookup:
+
+Dengan melakukan DNS lookup, Anda dapat mengetahui informasi seperti alamat IP yang terkait dengan domain tersebut. Perintah nslookup atau dig juga dapat digunakan untuk melakukan DNS lookup.
+- Traceroute atau Tracepath:
+
+Alat ini membantu melacak rute jaringan dari server ke server melalui berbagai node atau hop. Ini memberikan gambaran tentang bagaimana data mencapai tujuan dan melibatkan apa saja di sepanjang jalan.
+Contoh penggunaan nslookup:
+
+nslookup example.com
+Contoh penggunaan dig:
+
+dig example.com
+![image](https://github.com/Hasbi2104/Hasbi2104/assets/144440884/c4c27652-8a7b-42de-83eb-161c212f5c67)
+
 
 ## Mencoba Pembuatan Halaman Web Menggunakan HTML, CSS, dan JavaScript [v] ⭐⭐⭐
 
@@ -480,10 +544,54 @@ print("File JSON telah berhasil dibuat: data.json")
 
 
 ## Mencoba HTTP Request dan Web API dengan Hoppscotch / Postman [v] ⭐⭐
+Eksplorasi Web API dengan Postman API dimulai dengan pembuatan akun
+
+- login dengan akun google ke akun postman
+  ![image](https://github.com/Hasbi2104/Hasbi2104/assets/144440884/d6744137-4692-4f4a-b8fa-4a7345238c18)
+- eksplor environtment basic postman
+![image](https://github.com/Hasbi2104/Hasbi2104/assets/144440884/76660d86-c9ec-4d94-baba-6cbfe0b50289)
+- masuk dan pelajari API (API dari SatuSehat, aplikasi pelayanan kesehatan berbasis di Indonesia)
+  
+ ![image](https://github.com/Hasbi2104/Hasbi2104/assets/144440884/d62aaf92-f641-4eeb-bb48-022e399f707d)
+
 
 
 ## Mendemonstrasikan Penggunaan Developer Tools Pada Web Browser (Firefox / Chrome) [v] ⭐⭐⭐⭐⭐
+-- Developer Tools adalah serangkaian fitur dan fungsi yang terintegrasi dalam browser Google Chrome yang memungkinkan pengembang web menganalisis, memeriksa, dan mengoptimalkan situs web. Fitur ini memudahkan pengembang untuk memahami cara halaman web berinteraksi dengan browser, memeriksa performa, men-debug kode JavaScript, dan banyak lagi.(diambil dari artikel)
 
+Berikut adalah langkah-langkah umum untuk membuka dan menggunakan Developer Tools di Google Chrome:
+
+Buka Google Chrome:
+
+Pastikan Anda telah menginstal dan membuka browser Google Chrome di komputer Anda.
+Buka Developer Tools:
+
+Ada beberapa cara untuk membuka Developer Tools:
+Klik kanan pada elemen halaman web dan pilih "Inspect" atau "Inspect Element" dari menu konteks.
+Tekan Ctrl + Shift + I (Windows/Linux) atau Cmd + Opt + I (Mac) pada keyboard.
+Pilih menu "View" di pojok kanan atas, pilih "Developer", dan kemudian pilih "Developer Tools".
+Tab Developer Tools:
+
+Developer Tools terdiri dari beberapa tab, yang masing-masing menyediakan fungsionalitas berbeda. Beberapa tab umum termasuk:
+Elements: Memungkinkan Anda menginspeksi dan memanipulasi DOM (Document Object Model) dari halaman web.
+Console: Menampilkan pesan log, kesalahan JavaScript, dan memungkinkan Anda menjalankan perintah JavaScript.
+Sources: Memungkinkan Anda menjelajahi dan mem-debug kode JavaScript serta menetapkan breakpoint.
+Network: Menampilkan permintaan jaringan dan respon, membantu menganalisis performa halaman web.
+Application: Menyediakan informasi tentang cache, storage, dan pengaturan aplikasi web.
+Performance: Memungkinkan Anda merekam dan menganalisis performa halaman web.
+Menganalisis dan Memeriksa:
+
+Gunakan Developer Tools untuk menganalisis elemen halaman web, mengidentifikasi masalah, dan memeriksa network requests, cookies, dan lainnya.
+Men-debug Kode JavaScript:
+
+Gunakan tab "Sources" untuk men-debug kode JavaScript, menetapkan breakpoint, dan melihat variabel dan nilai eksekusi.
+Mengukur Performa:
+
+Gunakan tab "Performance" untuk merekam dan menganalisis performa halaman web, mengidentifikasi area yang memerlukan perbaikan.
+Menggunakan Extension dan Theme:
+
+Developer Tools juga mendukung ekstensi dan tema, yang dapat diinstal untuk menambahkan fungsionalitas tambahan atau mengubah tata letak.
+Developer Tools di Google Chrome sangat kuat dan berguna untuk pengembangan web. Penggunaannya bervariasi tergantung pada tugas tertentu yang sedang Anda lakukan, mulai dari inspeksi elemen hingga pemecahan masalah performa dan debugging JavaScript.
 
 ## Mengeksplorasi dan Menjelaskan Layanan Cloud Service yang Diminati (GCP / AWS / Azure) [v] ⭐⭐
 
