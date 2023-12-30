@@ -84,12 +84,190 @@ Setiap jenis mesin komputasi memiliki kegunaan dan karakteristik khusus, dan pem
 
 
 ## Mencoba Console Sistem Operasi Windows CMD [v] ⭐⭐⭐⭐
+CMD merupakan command prompt yang mana adalah nama dari console OS WINDOWS. CMD dapat digunakan sesuai dengan keinginan user melalui kode-kode dibawah ini, yang disebut dengan command line:
 
+dir:
+
+Menampilkan daftar file dan folder dalam direktori saat ini.
+cd:
+
+Mengubah direktori atau pindah ke direktori tertentu.
+copy:
+
+Menyalin file dari satu lokasi ke lokasi lain.
+del atau erase:
+
+Menghapus satu atau beberapa file.
+mkdir atau md:
+
+Membuat direktori baru.
+rmdir atau rd:
+
+Menghapus direktori (harus kosong).
+echo:
+
+Menampilkan teks atau mengaktifkan atau menonaktifkan fitur echo.
+type:
+
+Menampilkan isi file teks.
+rename atau ren:
+
+Mengganti nama file atau direktori.
+cls:
+
+Membersihkan layar konsol.
+ipconfig:
+
+Menampilkan informasi konfigurasi IP, seperti alamat IP dan gateway.
+ping:
+
+Mengirim paket data ke alamat IP atau nama domain untuk menguji koneksi jaringan.
+tracert atau traceroute:
+
+Melacak rute paket melalui jaringan.
+netstat:
+
+Menampilkan statistik dan informasi koneksi jaringan.
+tasklist:
+
+Menampilkan daftar proses yang sedang berjalan.
+taskkill:
+
+Menutup atau mengakhiri proses yang sedang berjalan.
+shutdown:
+
+Mematikan atau me-restart komputer.
+systeminfo:
+
+Menampilkan informasi konfigurasi sistem.
+sfc (System File Checker):
+
+Memeriksa dan memperbaiki file sistem yang rusak.
+chkdsk:
+
+Memeriksa dan memperbaiki kesalahan pada disk.
+format:
+
+Menghapus semua data pada drive dan memformatnya.
+xcopy:
+
+Menyalin file dan direktori dengan lebih banyak opsi daripada copy.
+find:
+
+Mencari teks dalam file.
+attrib:
+
+Mengubah atribut file atau folder.
+gpupdate:
+
+Memperbarui kebijakan grup pada sistem.
+net:
+
+Mengelola sumber daya jaringan, pengguna, dan grup.
+shutdown:
+
+Menjadwalkan atau membatalkan shutdown.
+sc (Service Control):
+
+Mengelola layanan Windows.
+assoc:
+
+Menampilkan atau mengubah asosiasi ekstensi file.
+fsutil:
+
+Mengelola berbagai aspek file system.
+cipher:
+
+Mengenkripsi atau mendekripsi file dan folder.
+reg:
+
+Mengelola registri Windows.
+bcdedit:
+
+Mengedit konfigurasi boot.
+hostname:
+
+Menampilkan atau mengatur nama komputer.
+date:
+
+Menampilkan atau mengatur tanggal sistem.
+time:
+
+Menampilkan atau mengatur waktu sistem.
+gpedit.msc:
+
+Membuka Editor Kebijakan Grup.
+msconfig:
+
+Membuka Utilitas Konfigurasi Sistem.
+taskmgr:
+
+Membuka Manajer Tugas.
+mmc (Microsoft Management Console):
+
+Membuka konsol manajemen dengan snap-ins yang dapat disesuaikan.
+wmic (Windows Management Instrumentation Command-line):
+
+Menyediakan antarmuka untuk mengakses informasi manajemen dan konfigurasi Windows.
+powercfg:
+
+Mengelola pengaturan daya dan energi.
+takeown:
+
+Mengambil kepemilikan file atau direktori.
+icacls:
+
+Mengonfigurasi hak akses berbasis list kontrol akses (ACL).
+task scheduler:
+
+Mengelola tugas yang dijadwalkan.
+subst:
+
+Menetapkan jalur subst atau menghapus penggantian.
+netsh:
+
+Konfigurasi dan diagnosa jaringan.
+driverquery:
+
+Menampilkan daftar driver perangkat yang diinstal pada sistem.
+mode:
+
+Mengkonfigurasi perangkat sistem.
+shutdown:
+
+Mematikan atau me-restart komputer.
+contoh penggunaan command cmd dapat dilihat pada gambar-gambar dibawah ini:
 ! [gamabr] !![Screenshot (9)](https://github.com/Hasbi2104/Hasbi2104/assets/144440884/d49e7e7a-a50a-4ce4-a4a5-e59c567f5a5b)
 
 
-## Linux Terminal Menggunakan Google Colab [v] ⭐⭐⭐⭐
 
+## Linux Terminal Menggunakan Google Colab [v] ⭐⭐⭐⭐
+Linux Terminal dikenal sebagai Command Line Interface (CLI) atau shell, adalah interface berbasis teks yang memungkinkan user berinteraksi dengan sistem operasi Linux melalui baris perintah. Terminal Linux memungkinkan pengguna untuk menjalankan perintah teks dan mengakses berbagai fitur pekerjaan sistem serta menjalankan skrip dan program. (bersumber dari artikel dan ChatGPT)
+
+karakteristik dan konsep terkait dengan Terminal Linux:
+
+Shell:
+
+Terminal Linux menjalankan sebuah shell, yang bertanggung jawab untuk menafsirkan dan menjalankan perintah yang dimasukkan oleh pengguna. Beberapa shell umum di Linux antara lain Bash (Bourne Again SHell), Zsh (Z Shell), dan Fish.
+Baris Perintah:
+
+Pengguna memasukkan perintah teks ke dalam terminal, dan sistem merespons dengan hasil eksekusi perintah tersebut. Baris perintah sering kali dimulai dengan prompt yang menunjukkan lokasi direktori saat ini, nama pengguna, dan sejenisnya.
+Direktori Kerja (Working Directory):
+
+Terminal selalu bekerja dalam suatu direktori tertentu pada suatu waktu. Pengguna dapat berpindah antar direktori menggunakan perintah cd.
+Perintah dan Argumen:
+
+Perintah diikuti oleh argumen dan opsi yang menentukan tindakan yang harus diambil oleh perintah tersebut. Misalnya, ls untuk menampilkan daftar file di direktori, dan ls -l untuk menampilkan daftar file dengan informasi lebih detail.
+Redirection dan Pipelines:
+
+Pengguna dapat mengarahkan output dari suatu perintah ke file atau perintah lain menggunakan operator seperti > atau | (pipa).
+Perintah Berbasis Teks:
+
+Terminal memungkinkan pengguna untuk melakukan berbagai tugas, seperti mengelola file, mengonfigurasi sistem, menjalankan skrip, dan banyak lagi. Sebagian besar perintah Linux bersifat teks dan dapat dipanggil melalui terminal.
+Perintah Awal dan Aliases:
+
+Pengguna dapat membuat perintah awal (shell script) dan mengonfigurasi alias untuk membuat perintah yang lebih kompleks atau mempersingkat perintah tertentu.
+Terminal Linux adalah alat yang kuat dan fleksibel yang sering digunakan oleh pengguna tingkat lanjut dan administrator sistem untuk menjalankan tugas-tugas yang tidak dapat dilakukan dengan antarmuka grafis. Ini juga merupakan cara yang efisien untuk mengelola dan menjelajahi sistem operasi Linux. Karena fleksibilitasnya, linux juga sering digunakan sebagai OS yang dapat menjelajahi lebih dalam seluk beluk dari suatu program, dan kemampuan mengulik yang lebih fleksibel dikarenakan sistem open-source nya.
 
 ## Membuat Algoritma Dalam Bentuk Flow Chart [v] ⭐⭐⭐⭐⭐
 
