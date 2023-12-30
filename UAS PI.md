@@ -269,6 +269,9 @@ Perintah Awal dan Aliases:
 Pengguna dapat membuat perintah awal (shell script) dan mengonfigurasi alias untuk membuat perintah yang lebih kompleks atau mempersingkat perintah tertentu.
 Terminal Linux adalah alat yang kuat dan fleksibel yang sering digunakan oleh pengguna tingkat lanjut dan administrator sistem untuk menjalankan tugas-tugas yang tidak dapat dilakukan dengan antarmuka grafis. Ini juga merupakan cara yang efisien untuk mengelola dan menjelajahi sistem operasi Linux. Karena fleksibilitasnya, linux juga sering digunakan sebagai OS yang dapat menjelajahi lebih dalam seluk beluk dari suatu program, dan kemampuan mengulik yang lebih fleksibel dikarenakan sistem open-source nya.
 
+![image](https://github.com/Hasbi2104/Hasbi2104/assets/144440884/4c5c8a85-f4e4-4f01-a936-9eec533b286d)
+
+
 ## Membuat Algoritma Dalam Bentuk Flow Chart [v] ⭐⭐⭐⭐⭐
 
 ! [gamabr] !<img width="488" alt="Screenshot 2023-12-19 124559" src="https://github.com/Hasbi2104/Hasbi2104/assets/144440884/55b6440b-cac3-4d60-9d1f-8a8d71469bc4">
