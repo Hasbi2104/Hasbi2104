@@ -1015,6 +1015,9 @@ Keahlian Full Stack Developer membuat mereka fleksibel dan dapat berkontribusi d
 
 
 ## Membaca dan Mengambil Inspirasi Dari Buku Bertema Informatika ⭐⭐⭐⭐⭐
+<img width="340" alt="Screenshot 2024-01-01 072803" src="https://github.com/Hasbi2104/Hasbi2104/assets/144440884/c5061876-51fb-4645-83f8-5ccbb5bf0cbf">
+
+
 ! [gamabr] <img width="352" alt="Screenshot 2023-12-19 134411" src="https://github.com/Hasbi2104/Hasbi2104/assets/144440884/ae74edc3-cc05-4efc-be8b-8c20ff7de8e4">
 
 
