@@ -1017,6 +1017,11 @@ Keahlian Full Stack Developer membuat mereka fleksibel dan dapat berkontribusi d
 ## Membaca dan Mengambil Inspirasi Dari Buku Bertema Informatika ⭐⭐⭐⭐⭐
 <img width="340" alt="Screenshot 2024-01-01 072803" src="https://github.com/Hasbi2104/Hasbi2104/assets/144440884/c5061876-51fb-4645-83f8-5ccbb5bf0cbf">
 
+Buku Dasar- Dasar Teknik Informatika –
+
+Perkembangan di bidang TIK (Teknologi Informasi dan Komunikasi) saat ini sangat pesat dan berpengaruh signifikan  terhadap pribadi maupun komunitas, segala aktivitas, kehidupan, cara kerja, metode perkuliahan, gaya hidup maupun cara berpikir. Adapun jenis-jenis TIK yang kita kenal selama ini adalah radio; televisi; telepon (fixed dan mobile); faksimile; electronic recording (audio dan video); komputer dengan segala peripherals seperti software, hardware, dan useware (program atau isi informasi); dan jaringan (lokal, wilayah, dan global/internet).
+
+Teknologi informasi merupakan suatu teknologi yang digunakan untuk mengolah data, termasuk memproses, mendapatkan, menyusun, menyimpan, memanipulasi data dalam berbagai cara untuk menghasilkan informasi yang berkualitas, yaitu informasi yang relevan, akurat, dan tepat waktu. Teknologi ini menggunakan seperangkat komputer untuk mengolah data dan sistem jaringan untuk menghubungkan satu komputer dengan komputer yang lainnya sesuai dengan kebutuhan dan teknologi telekomunikasi digunakan agar data dapat disebar dan diakses secara global. Perkembangan kinerja komputer diukur dengan kecepatan kerjanya. Walau demikian, ternyata kinerja komputer berbanding terbalik dengan ukurannya. Awalnya satu unit komputer harus berukuran satu rumah, sekarang menjadi semakin kecil. Perkembangan itu juga diiringi dengan perkembangan internet atau interconnected networks sebagai media penyampai informasi yang sangat efektif. TIK telah menjadi simbol gelombang perubahan. Perkembangan teknologi informasi memacu untuk memasuki era baru dalam kehidupan. Kehidupan seperti ini dikenal dengan e-life (electronic life), artinya kehidupan ini sudah dipengaruhi
 
 ! [gamabr] <img width="352" alt="Screenshot 2023-12-19 134411" src="https://github.com/Hasbi2104/Hasbi2104/assets/144440884/ae74edc3-cc05-4efc-be8b-8c20ff7de8e4">
 
