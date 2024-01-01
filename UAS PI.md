@@ -675,8 +675,9 @@ Setiap penyedia cloud memiliki keunggulan dan kelemahan masing-masing, dan pemil
 ## Mencoba Penggunaan Content Management System (Wordpress) [v] ⭐⭐⭐
 
 ![Screenshot (13)](https://github.com/Hasbi2104/Hasbi2104/assets/144440884/88b48101-bb2a-4824-a5b5-76c426d220f9)
-
-
+https://wordpress.com/post/hasbinurwahid52.wordpress.com/5
+Artikel ini saya terinspirasi kepada Muhammad wiguna ilham
+https://innovatetechjourney.wordpress.com/2023/12/17/niat-yang-kokoh-mengawali-perjalanan-menghafal-al-quran-dengan-ikhlas/
 ## Mendemonstrasikan Akses Konten Multimedia (Image, Audio, Video) ⭐⭐⭐
 - akses konten dapat dilihat dari youtube, ataupun webstie-website streaming seperti:
   1. gambar dan icon:
