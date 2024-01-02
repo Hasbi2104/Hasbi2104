@@ -353,6 +353,8 @@ Penggunaan IDE merupakan salah satu basic skill seorang programmer yang harusnya
 
 ! [gamabr] <img width="930" alt="Screenshot 2023-12-19 150612" src="https://github.com/Hasbi2104/Hasbi2104/assets/144440884/6b121cda-caae-4eea-bf29-fd689af719d4">
 
+<img width="926" alt="Screenshot 2024-01-02 093041" src="https://github.com/Hasbi2104/Hasbi2104/assets/144440884/96f4a531-3c01-46bb-ae5e-c9d9854a43d8">
+
 
 ## Mendemonstrasikan Pembuatan Aplikasi / Game Pada Platform : Mobile / Desktop / Web Browser ⭐⭐⭐⭐⭐
 
